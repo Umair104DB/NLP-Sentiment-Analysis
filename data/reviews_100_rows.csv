@@ -1,0 +1,101 @@
+review_id,review_text,sentiment_label
+1,Excellent quality and fast delivery.,positive
+2,Very poor quality and disappointing service.,negative
+3,I received the standard model.,neutral
+4,Great value for the price.,positive
+5,The item stopped working after two days.,negative
+6,The product has three available colors.,neutral
+7,Great value for the price.,positive
+8,The product is difficult to use.,negative
+9,I received the standard model.,neutral
+10,Excellent quality and fast delivery.,positive
+11,Very poor quality and disappointing service.,negative
+12,The product has three available colors.,neutral
+13,Great value for the price.,positive
+14,Delivery was late and support did not respond.,negative
+15,I received the standard model.,neutral
+16,Great value for the price.,positive
+17,The item stopped working after two days.,negative
+18,I received the standard model.,neutral
+19,Great value for the price.,positive
+20,I would not recommend this experience.,negative
+21,The product has three available colors.,neutral
+22,Great value for the price.,positive
+23,Very poor quality and disappointing service.,negative
+24,The order status changed this morning.,neutral
+25,Great value for the price.,positive
+26,Delivery was late and support did not respond.,negative
+27,The product has three available colors.,neutral
+28,Support was helpful and solved my issue.,positive
+29,The item stopped working after two days.,negative
+30,The package arrived yesterday.,neutral
+31,The product works perfectly and feels reliable.,positive
+32,Very poor quality and disappointing service.,negative
+33,The item includes a one year warranty.,neutral
+34,Excellent quality and fast delivery.,positive
+35,The item stopped working after two days.,negative
+36,The item includes a one year warranty.,neutral
+37,Support was helpful and solved my issue.,positive
+38,The item stopped working after two days.,negative
+39,I received the standard model.,neutral
+40,Great value for the price.,positive
+41,Very poor quality and disappointing service.,negative
+42,The product has three available colors.,neutral
+43,I am happy with this purchase.,positive
+44,Very poor quality and disappointing service.,negative
+45,I received the standard model.,neutral
+46,The product works perfectly and feels reliable.,positive
+47,The item stopped working after two days.,negative
+48,The product has three available colors.,neutral
+49,Great value for the price.,positive
+50,Very poor quality and disappointing service.,negative
+51,The package arrived yesterday.,neutral
+52,Great value for the price.,positive
+53,Delivery was late and support did not respond.,negative
+54,The package arrived yesterday.,neutral
+55,I am happy with this purchase.,positive
+56,The product is difficult to use.,negative
+57,The item includes a one year warranty.,neutral
+58,The product works perfectly and feels reliable.,positive
+59,Delivery was late and support did not respond.,negative
+60,I received the standard model.,neutral
+61,I am happy with this purchase.,positive
+62,Very poor quality and disappointing service.,negative
+63,The product has three available colors.,neutral
+64,Support was helpful and solved my issue.,positive
+65,The product is difficult to use.,negative
+66,I received the standard model.,neutral
+67,Excellent quality and fast delivery.,positive
+68,I would not recommend this experience.,negative
+69,The item includes a one year warranty.,neutral
+70,I am happy with this purchase.,positive
+71,Very poor quality and disappointing service.,negative
+72,The item includes a one year warranty.,neutral
+73,Excellent quality and fast delivery.,positive
+74,The product is difficult to use.,negative
+75,I received the standard model.,neutral
+76,I am happy with this purchase.,positive
+77,Very poor quality and disappointing service.,negative
+78,The product has three available colors.,neutral
+79,The product works perfectly and feels reliable.,positive
+80,I would not recommend this experience.,negative
+81,The order status changed this morning.,neutral
+82,Great value for the price.,positive
+83,The item stopped working after two days.,negative
+84,The product has three available colors.,neutral
+85,Great value for the price.,positive
+86,Delivery was late and support did not respond.,negative
+87,The item includes a one year warranty.,neutral
+88,Excellent quality and fast delivery.,positive
+89,I would not recommend this experience.,negative
+90,The package arrived yesterday.,neutral
+91,Support was helpful and solved my issue.,positive
+92,Very poor quality and disappointing service.,negative
+93,I received the standard model.,neutral
+94,The product works perfectly and feels reliable.,positive
+95,Very poor quality and disappointing service.,negative
+96,I received the standard model.,neutral
+97,I am happy with this purchase.,positive
+98,Very poor quality and disappointing service.,negative
+99,The package arrived yesterday.,neutral
+100,I am happy with this purchase.,positive
